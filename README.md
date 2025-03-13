@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning cyber security in UIT
 - 👯 A member of [CoSGang](https://ctftime.org/team/221828)
 - 📝 Some stupid things I write: https://hackmd.io/@tvdat20004
+
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/8969e89b-2d79-4aa3-81f0-69de76cfb46f"/>
+</div>
+
 <h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me </h1>
 <p align="left">
   <a href="https://www.facebook.com/tvdat20004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tvdat20004" height="30" width="40" /></a>
