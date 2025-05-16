@@ -1,7 +1,7 @@
 <h1 align="left" >Hello world👋 </h1>
 
 - 🌱 I’m currently learning cyber security in UIT
-- 👯 A member of [CoSGang](https://ctftime.org/team/221828)
+- 👯 A member of [Alternative für Knights](https://ctftime.org/team/369824)
 - 📝 Some stupid things I write: https://hackmd.io/@tvdat20004
 
 <div id="header" align="center">
